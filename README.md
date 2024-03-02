@@ -52,7 +52,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 可以自己选择安装与否。
 
-![image.png](https://i.yecdn.com/images/2019/02/20/644ca90fc1d9308fd6f57cd0f418c72a.png)
+![image.png](https://s2.loli.net/2024/03/03/Lr5ojGfd7BV9FTn.png)
 
 安装完成后，打开 TeamSpeak ，会提示登录 myTeamSpeak 账号。(可选是否登录，个人建议登录一下)
 
@@ -68,7 +68,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 点击主界面上面的 `连接 - 连接`，在 `服务器域名或地址` 位置输入服务器地址 `voice.kaisenn.fun`， `昵称` 位置输入昵称后，点击 `连接` 即可。
 
-![image.png](https://s2.loli.net/2024/03/03/ILtuHE9YUBjxFdO.png)
+![image.png](https://s2.loli.net/2024/03/03/LyuoEA6DHlWMU9e.png)
 
 
 ---
