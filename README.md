@@ -35,7 +35,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 在下方选择符合自己系统的Teamspeak版本下载，安装。如有语言问题可以选择额外下载中文插件。
 | 系统 | 版本 | 下载 |
-|:--- | :---: | :---: |
+|:---: | :---: | :---: |
 | Windows 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe) |
 | MacOS | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg) |
 | Linux 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run) |
