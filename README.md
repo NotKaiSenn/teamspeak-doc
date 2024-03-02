@@ -46,7 +46,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 | MacOS | 3.6.1 | [点击下载](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.dmg) |
 | Linux 64位 | 3.6.1 | [点击下载](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.tar.gz) |
 
-[中文语言包插件](https://dl.tmspk.wiki/https:/github.com/VigorousPro/TS3-Translation_zh-CN/releases/download/snapshot/Chinese_Translation_zh-CN.ts3_translation) 插件只需要打开点击install即可安装。
+[中文语言包插件](https://github.com/VigorousPro/TS3-Translation_zh-CN/releases/download/snapshot/Chinese_Translation_zh-CN.ts3_translation) 插件只需要打开点击install即可安装。
 
 安装过程中可能会提示你安装 Overwolf，它可以像 Discord 或 KOOK 一样在左上角显示对话情况与人员进出。
 
