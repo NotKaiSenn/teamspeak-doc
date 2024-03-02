@@ -5,14 +5,19 @@
 我会分为 4 个章节介绍内容，可以选择自己想要查看的教程或者资料。
 
 ## 目录
- 
-## 1. 什么是 Teamspeak
+  * [1. 什么是Teamspeak](#1-什么是teamspeak)
+  * [2. 为什么要用Teamspeak](#2-为什么要用teamspeak)
+  * [3. 如何安装Teamspeak](#3-如何安装teamspeak)
+  * [4. 如何使用Teamspeak](#4-如何使用teamspeak)
+
+
+## 1. 什么是Teamspeak
 
 > TeamSpeak (简称TS) 是一套专有的VoIP软件，使用者可以用耳机和麦克风，通过客户端软件连线到指定的服务器，与在服务器内频道的其他使用者进行通话。是一种很像电话会议的方式。 通常 TeamSpeak 的使用者大多为多人连线游戏的玩家，与同队伍的玩家进行通讯。在游戏的对战方面，语音对话通讯具有竞争优势。
 
 Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工具具有更多的功能，相比国内的YY语音，KOOK等界面更简洁更易用。你只需下载客户端即可登录已经搭设好的Teamspeak服务器。
 
-## 2. 为什么要用 Teamspeak
+## 2. 为什么要用Teamspeak
 
 首先 TeamSpeak 没有广告，没有捆绑软件，和 Discord 一样支持游戏内覆盖层，也可以单独调节每个用户的音量大小等等等等。至于服务器方面，TeamSpeak 的服务器一般都是自行租赁或架设的。
 除此之外，在系统占用，语音质量，语音延迟方面，也完胜Discord 和 KOOK。如果您想的话，甚至可以在自己的内网搭建一台 TeamSpeak 服务器。
@@ -26,11 +31,11 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 | 自定义性 | ✔ | ✔ | ✔ | ❌ |
 | 游戏覆盖 | ✔ | ✔ | ✔ | ❌ |
 
-## 3. 如何安装 Teamspeak
+## 3. 如何安装Teamspeak
 
 在下方选择符合自己系统的Teamspeak版本下载，安装。如有语言问题可以选择额外下载中文插件。
 | 系统 | 版本 | 下载 |
-|:-- | :---: | :---: |
+|:--- | :---: | :---: |
 | Windows 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe) |
 | MacOS | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg) |
 | Linux 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run) |
@@ -47,7 +52,12 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 >myTeamSpeak 账号的用途是同步书签，身份和配置等信息，比如在语音服务器获取的权限等等。
 
-## 3. 如何使用 Teamspeak
+## 4. 如何使用Teamspeak
 
-点击主界面上面的 `Connection - Connect`，在 `Server Nickname or Address` 位置输入服务器地址， `Nickname` 位置输入昵称后，点击 `Connect` 即可。
+在使用英文原版时，可以按照以下步骤操作：
+
+点击主界面上面的 `Connection - Connect`，在 `Server Nickname or Address` 位置输入服务器地址 `voice.kaisenn.fun`， `Nickname` 位置输入昵称后，点击 `Connect` 即可。
+
 也可在安装中文语言包后进行操作。
+
+点击主界面上面的 `连接 - 连接`，在 `服务器域名或地址` 位置输入服务器地址 `voice.kaisenn.fun`， `昵称` 位置输入昵称后，点击 `连接` 即可。
