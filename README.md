@@ -42,9 +42,9 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 | 系统 | 版本 | 下载 |
 |:--- | :---: | :---: |
-| Windows 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe) |
-| MacOS | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-macosx-3.6.1.dmg) |
-| Linux 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-linux_amd64-3.6.1.run) |
+| Windows 64位 | 3.6.1 | [点击下载](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe) |
+| MacOS | 3.6.1 | [点击下载](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.dmg) |
+| Linux 64位 | 3.6.1 | [点击下载](https://files.teamspeak-services.com/pre_releases/client/5.0.0-beta77/teamspeak-client.tar.gz) |
 
 [中文语言包插件](https://dl.tmspk.wiki/https:/github.com/VigorousPro/TS3-Translation_zh-CN/releases/download/snapshot/Chinese_Translation_zh-CN.ts3_translation) 插件只需要打开点击install即可安装。
 
