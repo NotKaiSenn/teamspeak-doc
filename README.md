@@ -1,6 +1,6 @@
 # 语音点凯旋点有趣
 
-**欢迎访问 [voice.kaisenn.fun](voice.kaisenn.fun) ！既然来到了这里，相信你一定想了解什么是 Teamspeak 以及怎么加入吧！**
+**欢迎访问 [voice.kaisenn.fun](https://voice.kaisenn.fun) ！既然来到了这里，相信你一定想了解什么是 Teamspeak 以及怎么加入吧！**
 
 >**如果你已经知道如何使用Teamspeak，请连接`voice.kaisenn.fun`加入我们的服务器！没错就是你正在访问的域名。**
 
