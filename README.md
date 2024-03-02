@@ -19,7 +19,8 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 ## 2. 为什么要用Teamspeak
 
-首先 TeamSpeak 没有广告，没有捆绑软件，和 Discord 一样支持游戏内覆盖层，也可以单独调节每个用户的音量大小等等等等。至于服务器方面，TeamSpeak 的服务器一般都是自行租赁或架设的。
+首先 TeamSpeak 没有广告，没有捆绑软件，和 Discord 一样支持游戏内覆盖层，也可以单独调节每个用户的音量大小等等等等。至于服务器方面，TeamSpeak 的服务器一般都是自行租赁或架设的，自主性较高。
+
 除此之外，在系统占用，语音质量，语音延迟方面，也完胜Discord 和 KOOK。如果您想的话，甚至可以在自己的内网搭建一台 TeamSpeak 服务器。
 
 | | Teamspeak | KOOK | Discord | QQ |
@@ -34,6 +35,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 ## 3. 如何安装Teamspeak
 
 在下方选择符合自己系统的Teamspeak版本下载，安装。如有语言问题可以选择额外下载中文插件。
+
 | 系统 | 版本 | 下载 |
 |:---: | :---: | :---: |
 | Windows 64位 | 3.6.1 | [点击下载](https://teamspeak-mirror.wevg.org/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe) |
@@ -46,7 +48,7 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 
 可以自己选择安装与否。
 
-![](https://i.yecdn.com/images/2019/02/20/644ca90fc1d9308fd6f57cd0f418c72a.png)
+![image.png](https://i.yecdn.com/images/2019/02/20/644ca90fc1d9308fd6f57cd0f418c72a.png)
 
 安装完成后，打开 TeamSpeak ，会提示登录 myTeamSpeak 账号。(可选是否登录，个人建议登录一下)
 
@@ -61,3 +63,9 @@ Teamspeak（简称TS）是一款团队语音通讯工具，比普通的通讯工
 也可在安装中文语言包后进行操作。
 
 点击主界面上面的 `连接 - 连接`，在 `服务器域名或地址` 位置输入服务器地址 `voice.kaisenn.fun`， `昵称` 位置输入昵称后，点击 `连接` 即可。
+
+![image.png](https://s2.loli.net/2024/03/03/ILtuHE9YUBjxFdO.png)
+
+
+---
+<p align="center">2024 © kaisenn.fun</p>
